@@ -31,7 +31,7 @@ MakeyDooey is built for **hard real-time determinism**. Our modular "Totem" syst
 
 Our performance is driven by a **Heterogeneous Dual-Core** firmware architecture to guarantee safety-critical timing.
 
-![Architecture Diagram](#)
+![Architecture Diagram]()
 
 ### Why Dual-Core?
 * **M7 Management Core:** Runs a CLI built on **FreeRTOS** for flexible IDE communication.
@@ -56,6 +56,14 @@ To demonstrate the precision of the MakeyDooey platform, we’ve developed a fla
 > Access our WCAG 2.2 compliant PWA IDE built with React and Electron.
 > ### [🛠️ Hardware](https://github.com/MakeyDooey/Hardware)
 > Access the files to all of our custom hardware. 
+
+---
+## 👥 Main Contributors
+
+The core team behind the MakeyDooey ecosystem.
+
+[@LeoMattosMartins](https://github.com/LeoMattosMartins) | [@DomMurphy-git](https://github.com/DomMurphy-git) | [@KoenLin](https://github.com/KoenLin) | [@vik802](https://github.com/vik802) | [Jonny-Wu13](https://github.com/Jonny-Wu13) | [@BenjaminJoseph123](https://github.com/BenjaminJoseph123)
+
 
 ---
 
