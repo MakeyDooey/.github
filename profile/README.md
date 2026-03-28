@@ -1,4 +1,6 @@
-![logo](#)
+<div align="center">
+<img src=https://github.com/MakeyDooey/.github/blob/main/profile/MakeyDooeyLogo_transparent.png width=300px>
+</div>
 
 # MAKEY DOOEY
 
@@ -31,7 +33,7 @@ MakeyDooey is built for **hard real-time determinism**. Our modular "Totem" syst
 
 Our performance is driven by a **Heterogeneous Dual-Core** firmware architecture to guarantee safety-critical timing.
 
-![Architecture Diagram]()
+![Architecture Diagram](https://github.com/MakeyDooey/.github/blob/main/profile/system%20architecture.png)
 
 ### Why Dual-Core?
 * **M7 Management Core:** Runs a CLI built on **FreeRTOS** for flexible IDE communication.
@@ -71,4 +73,8 @@ The core team behind the MakeyDooey ecosystem.
 
 `Created with ❤️ for a sustainable, open-source industrial future.`
 
+</div>
+
+<div align="right">
+  <img src=https://github.com/MakeyDooey/.github/blob/main/profile/WikeMazowski_transparent.png width=60px>
 </div>
