@@ -64,8 +64,12 @@ To demonstrate the precision of the MakeyDooey platform, we’ve developed a fla
 
 The core team behind the MakeyDooey ecosystem.
 
-[@LeoMattosMartins](https://github.com/LeoMattosMartins) | [@DomMurphy-git](https://github.com/DomMurphy-git) | [@KoenLin](https://github.com/KoenLin) | [@vik802](https://github.com/vik802) | [Jonny-Wu13](https://github.com/Jonny-Wu13) | [@BenjaminJoseph123](https://github.com/BenjaminJoseph123)
-
+[![](https://img.shields.io/badge/@LeoMattosMartins-808080?style=flat-square)](https://github.com/LeoMattosMartins)
+[![](https://img.shields.io/badge/@DomMurphy--git-ADD8E6?style=flat-square)](https://github.com/DomMurphy-git)
+[![](https://img.shields.io/badge/@KoenLin-00008B?style=flat-square)](https://github.com/KoenLin)
+[![](https://img.shields.io/badge/@vik802-800080?style=flat-square)](https://github.com/vik802)
+[![](https://img.shields.io/badge/Jonny--Wu13-FFC0CB?style=flat-square)](https://github.com/Jonny-Wu13)
+[![](https://img.shields.io/badge/@BenjaminJoseph123-FFA500?style=flat-square)](https://github.com/BenjaminJoseph123)
 
 ---
 
