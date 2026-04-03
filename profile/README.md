@@ -52,7 +52,7 @@ To demonstrate the precision of the MakeyDooey platform, we’ve developed a fla
 ---
 
 ## 📂 Key Repositories
-> ### [💾 Firmware](https://github.com/MakeyDooey/Firmware)
+> ### [💾 Firmware](https://github.com/MakeyDooey/Firmware-ShamanLink)
 > Explore the dual-core implementation, shared memory logic, and Totem Bus drivers.
 > ### [💻 Software](https://github.com/MakeyDooey/Software)
 > Access our WCAG 2.2 compliant PWA IDE built with React and Electron.
